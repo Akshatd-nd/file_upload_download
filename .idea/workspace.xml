@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2af0bbf9-367b-45fe-a01c-abaa16e8ec47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/grpc new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcclient/client/GrpcUploadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/restclient/client/RestUploadClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/fileDownload.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_client/to_upload/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_client/to_upload/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/service/FileDownloadServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/service/FileUploadServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_server/src/main/proto/fileDownload.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/grpc new project.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/logs/grpcservice.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/logs/grpcservice.log.2025-06-05.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/logs/grpcservice.log.2025-06-06.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/GrpcserviceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/client/FileUploadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/service/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/service/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/service/ToolsServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice/service/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/fileUpload.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/fileUpload.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/tools.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/tools.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/user.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/user.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/test/java/com/example/grpcservice/GrpcserviceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/test_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/uploads/uploaded_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/uploads/uploaded_test_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/grpc new project.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log.2025-06-05.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log.2025-06-06.0.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/client/FileUploadClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/service/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/src/main/proto/fileUpload.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server/src/main/proto/fileUpload.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/test_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/uploads/uploaded_test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server/uploads/uploaded_test_image.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grpc_server" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;duttaAkshat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Akshatd-nd/exposingAPIs_using_gRPC.git&quot;,
+    &quot;accountId&quot;: &quot;1852e47d-6b20-40e0-8973-121fa494d1fc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2yGVrd0TqOe8KiTE7BVLSFXB9pP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/akshatdutta/Documents/grpc_new/grpc_client/to_upload",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grpc_client/to_upload" />
+      <recent name="$PROJECT_DIR$/grpc_client/src/main/proto" />
+      <recent name="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcservice" />
+      <recent name="$PROJECT_DIR$/grpc_server/src/main/proto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice" />
+      <recent name="$PROJECT_DIR$/grpc_client/src/main/java/com/example/restclient/client" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2af0bbf9-367b-45fe-a01c-abaa16e8ec47" name="Changes" comment="" />
+      <created>1749461096632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749461096632</updated>
+    </task>
+    <servers />
+  </component>
+</project>
