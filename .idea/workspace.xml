@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2af0bbf9-367b-45fe-a01c-abaa16e8ec47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/grpc new.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/grpcclient/client/GrpcUploadClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/grpc_client/src/main/java/com/example/restclient/client/RestUploadClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/fileDownload.proto" afterDir="false" />
@@ -18,6 +13,9 @@
       <change afterPath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/service/FileDownloadServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/grpc_server/src/main/java/com/example/grpcservice/service/FileUploadServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/grpc_server/src/main/proto/fileDownload.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grpc_server/src/main/resources/sample5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/grpc new project.odt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/logs/grpcservice.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/logs/grpcservice.log.2025-06-05.0.gz" beforeDir="false" />
@@ -33,11 +31,13 @@
       <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/fileUpload.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/fileUpload.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/tools.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/tools.proto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/src/main/proto/user.proto" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/proto/user.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_client/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/src/test/java/com/example/grpcservice/GrpcserviceApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/test_image.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/uploads/uploaded_test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_client/uploads/uploaded_test_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpc_server" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_server/grpc new project.odt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log" beforeDir="false" afterPath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/grpc_server/logs/grpcservice.log.2025-06-05.0.gz" beforeDir="false" />
@@ -58,7 +58,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grpc_server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grpc_client" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -84,16 +84,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/akshatdutta/Documents/grpc_new/grpc_client/to_upload",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ide.FileNotInSourceRootChecker.no.check&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/akshatdutta/Documents/file_upload_download_grpc&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/grpc_client/to_upload" />
